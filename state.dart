@@ -7,4 +7,4 @@ abstract class <rename>State extends Equatable {
   List<Object> get props => [];
 }
 
-class <rename>Initial extends <re<rename>State {}
+class <rename>Initial extends <rename>State {}
