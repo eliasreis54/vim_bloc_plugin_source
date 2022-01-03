@@ -1,8 +1,8 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 
-part '<rename>_event.dart';
-part '<rename>_state.dart';
+part '<rename_file>_event.dart';
+part '<rename_file>_state.dart';
 
 class <rename>Bloc extends Bloc<<rename>Event, <rename>State> {
   <rename>Bloc() : super(<rename>Initial()) {
